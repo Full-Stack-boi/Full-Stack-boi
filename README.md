@@ -1,16 +1,139 @@
-## Hi there 👋
+<!-- ✨ CARTOON MODERN MINIMAL STYLE (Vibrant Pink & Purple Palette) ✨ -->
 
-<!--
-**Full-Stack-boi/Full-Stack-boi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<!-- Cute & Modern Soft Waving Header (Gradient Pink to Purple) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4A68,100:8B5CF6&height=180&section=header&text=Hi%20there,%20I'm%20Nattawut!%20👋&fontSize=32&fontColor=ffffff&desc=Full-Stack%20Developer%20•%20Building%20fun%20&%20useful%20things%20✨&descSize=15&descAlignY=62&descColor=ffffff" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Cute Minimal Status Badges with the vibrant colors -->
+<img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-FF4A68?style=for-the-badge&logoWidth=0" />&nbsp;
+<img src="https://img.shields.io/badge/Vibe-Coding%20%26%20Learning-8B5CF6?style=for-the-badge&logoWidth=0" />&nbsp;
+<img src="https://img.shields.io/badge/Location-Thailand%20🇹🇭-10B981?style=for-the-badge&logoWidth=0" />
+
+<br/><br/>
+
+<!-- Bold Pink/Purple Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=FF4A68&center=true&vCenter=true&width=500&height=50&lines=Creating+collaborative+web+tools+🎬;Building+neat+mobile+apps+with+Flutter+📱;Turning+coffee+into+clean+code+☕)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🌸 About Me
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I'm a <b>Full-Stack Developer</b> who loves blending technical logic with creative designs. My main quest is to build apps that connect people and make daily tasks a little more delightful!</p>
+      
+      <ul>
+        <li>🪐 <b>Main Focus:</b> Chrome Extensions, Flutter, and Modern Web Tech</li>
+        <li>🌱 <b>Current Study:</b> Fine-tuning TypeScript and real-time architectures</li>
+        <li>💡 <b>Philosophy:</b> Keep it simple, interactive, and beautifully clean</li>
+        <li>🎮 <b>In my free time:</b> Exploring creative coding and relaxing with lo-fi music</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- Cute Minimal Flat Illustration -->
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/People%20Holding%20Hands.png" alt="People Holding Hands" width="120" />
+      <br/>
+      <small><i>Let's build together!</i></small>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎒 Toolbox
+
+<div align="center">
+
+### 💡 Core Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,html,css&theme=light" />
+</a>
+
+<br/>
+
+### 🚀 Frameworks & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,firebase,git,vscode&theme=light" />
+</a>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<!-- Cards custom colored to match Pink (#FF4A68) & Purple (#8B5CF6) theme -->
+<a href="https://github.com/Full-Stack-boi/Huddle">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Full-Stack-boi&repo=Huddle&theme=radical&hide_border=true&bg_color=fafafa&title_color=FF4A68&text_color=2d3436&icon_color=8B5CF6" width="400"/>
+</a>
+<a href="https://github.com/Full-Stack-boi/tparking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Full-Stack-boi&repo=tparking&theme=radical&hide_border=true&bg_color=fafafa&title_color=8B5CF6&text_color=2d3436&icon_color=10B981" width="400"/>
+</a>
+
+</div>
+
+<br/>
+
+### 📁 The Showcase Directory
+
+*   🎬 **[Huddle](https://github.com/Full-Stack-boi/Huddle)** — A super cool Chrome Extension designed for watch parties with real-time video synchronization.
+*   🅿️ **[tparking](https://github.com/Full-Stack-boi/tparking)** — A gorgeous, modern Car Parking application crafted elegantly with Flutter.
+*   📺 **[WeWatch](https://github.com/Full-Stack-boi/WeWatch)** — Share your screen and sync video playback with friends seamlessly.
+*   🛒 **[Mechamongus](https://github.com/Mar-boi/Mechamongus)** — Contributed to a high-quality, modern E-Commerce website project built with TypeScript.
+
+---
+
+## 📊 Activity & Stats
+
+<div align="center">
+
+<!-- Stats colored with Pink/Purple palette -->
+<img src="https://github-readme-stats.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=radical&hide_border=true&bg_color=fafafa&title_color=FF4A68&text_color=2d3436&icon_color=8B5CF6&ring_color=10B981&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Full-Stack-boi&theme=calm&hide_border=true&background=fafafa&ring=8B5CF6&fire=FF4A68&currStreakLabel=FF4A68&sideLabels=2d3436&dates=999999&currStreakNum=8B5CF6&sideNums=10B981" width="49%"/>
+
+</div>
+
+---
+
+## 🐍 Happy Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Full-Stack-boi/Full-Stack-boi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Full-Stack-boi/Full-Stack-boi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Full-Stack-boi/Full-Stack-boi/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📬 Let's Stay in Touch!
+
+<div align="center">
+
+<p>Feel free to reach out if you want to collaborate on a project, talk about tech, or just say hi!</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Full--Stack--boi-8B5CF6?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Full-Stack-boi)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-FF4A68?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:your-email@example.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Full-Stack-boi&color=FF4A68&style=for-the-badge&label=FRIENDS+VISITED)
+
+<br/>
+
+✨ *Made with love, clean code, and vibrant cartoon vibes* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4A68,100:8B5CF6&height=100&section=footer" width="100%"/>
+
+</div>
