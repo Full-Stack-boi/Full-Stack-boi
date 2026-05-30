@@ -73,57 +73,33 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 15px; width: 100%;">
-        <tr>
-          <td>
-            <h3>🎬 Huddle</h3>
-            <p>A super cool Chrome Extension designed for watch parties with real-time video synchronization.</p>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Chrome_APIs-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
-            &nbsp;⭐ 1
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <h3>🎬 Huddle</h3>
+      <p>A super cool Chrome Extension designed for watch parties with real-time video synchronization.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Chrome_APIs-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+      &nbsp;⭐ 1
     </td>
-    <td width="50%" valign="top">
-      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 15px; width: 100%;">
-        <tr>
-          <td>
-            <h3>🅿️ tparking</h3>
-            <p>A gorgeous, modern Car Parking application crafted elegantly with Flutter & Dart.</p>
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-            &nbsp;⭐ 2
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <h3>🅿️ tparking</h3>
+      <p>A gorgeous, modern Car Parking application crafted elegantly with Flutter & Dart.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      &nbsp;⭐ 2
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 15px; width: 100%;">
-        <tr>
-          <td>
-            <h3>📺 WeWatch</h3>
-            <p>Share your screen and sync video playback with friends seamlessly in real-time.</p>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-            &nbsp;⭐ 1
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <h3>📺 WeWatch</h3>
+      <p>Share your screen and sync video playback with friends seamlessly in real-time.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      &nbsp;⭐ 1
     </td>
-    <td width="50%" valign="top">
-      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 15px; width: 100%;">
-        <tr>
-          <td>
-            <h3>🛒 Mechamongus</h3>
-            <p>Contributed to a high-quality, modern E-Commerce website project built with TypeScript.</p>
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-            &nbsp;⭐ 1
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <h3>🛒 Mechamongus</h3>
+      <p>Contributed to a high-quality, modern E-Commerce website project built with TypeScript.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      &nbsp;⭐ 1
     </td>
   </tr>
 </table>
@@ -136,22 +112,14 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <!-- Custom Stable Status Board matching the color theme -->
-      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 20px; width: 100%; height: 100%;">
-        <tr>
-          <td>
-            <h3 style="color: #FF4A68; margin-top: 0;">🎮 Player Stats</h3>
-            <p>🏆 <b>Total Stars:</b> <img src="https://img.shields.io/github/stars/Full-Stack-boi?style=flat-square&color=FF4A68" valign="middle"/></p>
-            <p>👥 <b>Followers:</b> <img src="https://img.shields.io/github/followers/Full-Stack-boi?style=flat-square&color=8B5CF6" valign="middle"/></p>
-            <p>🔥 <b>Total Commits:</b> 389+ contributions and growing!</p>
-            <p>⚡ <b>Current Level:</b> 99 Full-Stack Crafting</p>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top" align="left" style="padding: 10px;">
+      <h3 style="color: #FF4A68; margin-top: 0;">🎮 Player Stats</h3>
+      <p>🏆 <b>Total Stars:</b> <img src="https://img.shields.io/github/stars/Full-Stack-boi?style=flat-square&color=FF4A68" valign="middle"/></p>
+      <p>👥 <b>Followers:</b> <img src="https://img.shields.io/github/followers/Full-Stack-boi?style=flat-square&color=8B5CF6" valign="middle"/></p>
+      <p>🔥 <b>Total Commits:</b> 389+ contributions and growing!</p>
+      <p>⚡ <b>Current Level:</b> LV.99 Full-Stack Crafting</p>
     </td>
-    <td width="50%" valign="top">
-      <!-- Working Streak Stats Card -->
+    <td width="50%" valign="middle" align="center" style="padding: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Full-Stack-boi&hide_border=true&background=fafafa&ring=8B5CF6&fire=FF4A68&currStreakLabel=FF4A68&sideLabels=2d3436&dates=999999&currStreakNum=8B5CF6&sideNums=10B981" width="100%"/>
     </td>
   </tr>
