@@ -37,8 +37,8 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- High-quality cute animated coding flat illustration -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZjdDhrbmZ2M2sxbDRnaThrdHphbXZzdzdsaW5pcjh4b3VxdmdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfZ2lwaHkmY3Q9cw/du3J3JHfPcYcKeRecg/giphy.gif" alt="Cute Coding Animation" width="140" />
+      <!-- Official GitHub Codercat Mascot - 100% stable, guaranteed to load on GitHub -->
+      <img src="https://octodex.github.com/images/codercat.jpg" alt="GitHub CoderCat" width="140" style="border-radius: 12px;" />
       <br/>
       <sub>Let's build together!</sub>
     </td>
