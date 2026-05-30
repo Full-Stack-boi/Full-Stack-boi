@@ -8,6 +8,7 @@
 <br/>
 
 <!-- Cute Minimal Status Badges with the vibrant colors -->
+
 <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-FF4A68?style=for-the-badge&logoWidth=0" />&nbsp;
 <img src="https://img.shields.io/badge/Vibe-Coding%20%26%20Learning-8B5CF6?style=for-the-badge&logoWidth=0" />&nbsp;
 <img src="https://img.shields.io/badge/Location-Thailand%20🇹🇭-10B981?style=for-the-badge&logoWidth=0" />
@@ -15,6 +16,7 @@
 <br/><br/>
 
 <!-- Bold Pink/Purple Typing Animation -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=FF4A68&center=true&vCenter=true&width=500&height=50&lines=Creating+collaborative+web+tools+🎬;Building+neat+mobile+apps+with+Flutter+📱;Turning+coffee+into+clean+code+☕)](https://git.io/typing-svg)
 
 </div>
@@ -25,9 +27,8 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <p>I'm a <b>Full-Stack Developer</b> who loves blending technical logic with creative designs. My main quest is to build apps that connect people and make daily tasks a little more delightful!</p>
-      
       <ul>
         <li>🪐 <b>Main Focus:</b> Chrome Extensions, Flutter, and Modern Web Tech</li>
         <li>🌱 <b>Current Study:</b> Fine-tuning TypeScript and real-time architectures</li>
@@ -35,11 +36,11 @@
         <li>🎮 <b>In my free time:</b> Exploring creative coding and relaxing with lo-fi music</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Cute Minimal Flat Illustration -->
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/People%20Holding%20Hands.png" alt="People Holding Hands" width="120" />
+    <td width="35%" align="center" valign="middle">
+      <!-- High-quality cute animated coding flat illustration -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZjdDhrbmZ2M2sxbDRnaThrdHphbXZzdzdsaW5pcjh4b3VxdmdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfZ2lwaHkmY3Q9cw/du3J3JHfPcYcKeRecg/giphy.gif" alt="Cute Coding Animation" width="140" />
       <br/>
-      <small><i>Let's build together!</i></small>
+      <sub>Let's build together!</sub>
     </td>
   </tr>
 </table>
@@ -51,6 +52,7 @@
 <div align="center">
 
 ### 💡 Core Languages
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,dart,html,css&theme=light" />
 </a>
@@ -58,6 +60,7 @@
 <br/>
 
 ### 🚀 Frameworks & Tools
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,firebase,git,vscode&theme=light" />
 </a>
@@ -68,26 +71,62 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-<!-- Cards custom colored to match Pink (#FF4A68) & Purple (#8B5CF6) theme -->
-<a href="https://github.com/Full-Stack-boi/Huddle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Full-Stack-boi&repo=Huddle&theme=radical&hide_border=true&bg_color=fafafa&title_color=FF4A68&text_color=2d3436&icon_color=8B5CF6" width="400"/>
-</a>
-<a href="https://github.com/Full-Stack-boi/tparking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Full-Stack-boi&repo=tparking&theme=radical&hide_border=true&bg_color=fafafa&title_color=8B5CF6&text_color=2d3436&icon_color=10B981" width="400"/>
-</a>
-
-</div>
-
-<br/>
-
-### 📁 The Showcase Directory
-
-*   🎬 **[Huddle](https://github.com/Full-Stack-boi/Huddle)** — A super cool Chrome Extension designed for watch parties with real-time video synchronization.
-*   🅿️ **[tparking](https://github.com/Full-Stack-boi/tparking)** — A gorgeous, modern Car Parking application crafted elegantly with Flutter.
-*   📺 **[WeWatch](https://github.com/Full-Stack-boi/WeWatch)** — Share your screen and sync video playback with friends seamlessly.
-*   🛒 **[Mechamongus](https://github.com/Mar-boi/Mechamongus)** — Contributed to a high-quality, modern E-Commerce website project built with TypeScript.
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 15px; width: 100%;">
+        <tr>
+          <td>
+            <h3>🎬 Huddle</h3>
+            <p>A super cool Chrome Extension designed for watch parties with real-time video synchronization.</p>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Chrome_APIs-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+            &nbsp;⭐ 1
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 15px; width: 100%;">
+        <tr>
+          <td>
+            <h3>🅿️ tparking</h3>
+            <p>A gorgeous, modern Car Parking application crafted elegantly with Flutter & Dart.</p>
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+            &nbsp;⭐ 2
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 15px; width: 100%;">
+        <tr>
+          <td>
+            <h3>📺 WeWatch</h3>
+            <p>Share your screen and sync video playback with friends seamlessly in real-time.</p>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+            &nbsp;⭐ 1
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 15px; width: 100%;">
+        <tr>
+          <td>
+            <h3>🛒 Mechamongus</h3>
+            <p>Contributed to a high-quality, modern E-Commerce website project built with TypeScript.</p>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            &nbsp;⭐ 1
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,9 +134,28 @@
 
 <div align="center">
 
-<!-- Stats colored with Pink/Purple palette -->
-<img src="https://github-readme-stats.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=radical&hide_border=true&bg_color=fafafa&title_color=FF4A68&text_color=2d3436&icon_color=8B5CF6&ring_color=10B981&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Full-Stack-boi&theme=calm&hide_border=true&background=fafafa&ring=8B5CF6&fire=FF4A68&currStreakLabel=FF4A68&sideLabels=2d3436&dates=999999&currStreakNum=8B5CF6&sideNums=10B981" width="49%"/>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <!-- Custom Stable Status Board matching the color theme -->
+      <table border="0" bgcolor="#FFF5F5" style="border-radius: 12px; padding: 20px; width: 100%; height: 100%;">
+        <tr>
+          <td>
+            <h3 style="color: #FF4A68; margin-top: 0;">🎮 Player Stats</h3>
+            <p>🏆 <b>Total Stars:</b> <img src="https://img.shields.io/github/stars/Full-Stack-boi?style=flat-square&color=FF4A68" valign="middle"/></p>
+            <p>👥 <b>Followers:</b> <img src="https://img.shields.io/github/followers/Full-Stack-boi?style=flat-square&color=8B5CF6" valign="middle"/></p>
+            <p>🔥 <b>Total Commits:</b> 389+ contributions and growing!</p>
+            <p>⚡ <b>Current Level:</b> 99 Full-Stack Crafting</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Working Streak Stats Card -->
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Full-Stack-boi&hide_border=true&background=fafafa&ring=8B5CF6&fire=FF4A68&currStreakLabel=FF4A68&sideLabels=2d3436&dates=999999&currStreakNum=8B5CF6&sideNums=10B981" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -124,15 +182,13 @@
 <p>Feel free to reach out if you want to collaborate on a project, talk about tech, or just say hi!</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Full--Stack--boi-8B5CF6?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Full-Stack-boi)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-FF4A68?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-FF4A68?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:nattawutbupoo@gmail.com)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Full-Stack-boi&color=FF4A68&style=for-the-badge&label=FRIENDS+VISITED)
 
 <br/>
-
-✨ *Made with love, clean code, and vibrant cartoon vibes* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4A68,100:8B5CF6&height=100&section=footer" width="100%"/>
 
