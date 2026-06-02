@@ -171,13 +171,11 @@ Helped contribute to a high-quality, modern E-Commerce website project built wit
 <p>I'd love to chat! Feel free to reach out if you want to talk about tech, coding, or just say hi!</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Full--Stack--boi-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Full-Stack-boi)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-38bdf8?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nattawut_Buphoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nattawut-buphoo-85a36a408/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Website-10b981?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://nattawutbuphoo.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-38bdf8?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:nattawutbupoo@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Full-Stack-boi&color=38bdf8&style=for-the-badge&label=FRIENDS+VISITED)
-
-<br/>
+<br/><br/>
 
 ```
 "Every expert was once a beginner." — Helen Hayes
