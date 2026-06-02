@@ -1,13 +1,10 @@
-<!-- 🌟 THE FRIENDLY CODER'S CANVAS - BOLD & BEAUTIFUL EDITION 🌟 -->
-
 <div align="center">
 
-<!-- Modern Sky Blue & Violet Waving Header (Zero Special Characters to Avoid Crashes) -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38bdf8,100:6366f1&height=180&section=header&text=Hi%20there,%20I'm%20Nattawut!%20👋&fontSize=30&fontColor=ffffff&desc=Junior%20Full-Stack%20Developer%20-%20Learning%20and%20Building%20Every%20Day%20🚀&descSize=14&descAlignY=65&descColor=f1f5f9" width="100%"/>
 
 <br/>
 
-<!-- Friendly & Approachable Flat Badges -->
+<!-- Flat Badges -->
 
 <img src="https://img.shields.io/badge/Role-Junior%20Full--Stack%20Developer-38bdf8?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/Tech-Web%20%26%20Mobile%20Apps-6366f1?style=flat-square" />&nbsp;
@@ -15,7 +12,7 @@
 
 <br/>
 
-<!-- Enthusiastic Typing Animation -->
+<!-- Typing Animation -->
 
 <a href="https://git.io/typing-svg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code" /><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=1E293B&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code" /><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=1E293B&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code" alt="Typing SVG" /></picture></a>
 
