@@ -17,7 +17,7 @@
 
 <!-- Enthusiastic Typing Animation -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code" /><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=1E293B&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code" /><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=1E293B&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code" alt="Typing SVG" /></picture></a>
 
 </div>
 
@@ -67,7 +67,7 @@ I'm a passionate **Junior Full-Stack Developer** based in Thailand. I love learn
 [![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org/) &nbsp;
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) &nbsp;
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) &nbsp;
-<a href="https://socket.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/socketdotio/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/socketdotio/010101" /><img src="https://cdn.simpleicons.org/socketdotio/010101" width="48" height="48" alt="Socket.io" /></picture></a> &nbsp;
+<a href="https://socket.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/socketdotio/e2e8f0" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/socketdotio/1e293b" /><img src="https://cdn.simpleicons.org/socketdotio/1e293b" width="48" height="48" alt="Socket.io" /></picture></a> &nbsp;
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/) &nbsp;
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) &nbsp;
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/) &nbsp;
