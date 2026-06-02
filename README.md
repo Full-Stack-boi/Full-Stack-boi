@@ -130,17 +130,17 @@ Helped contribute to a high-quality, modern E-Commerce website project built wit
 
 ## Activity & Growth
 
-### Coding Stats
-
-- **Total Repository Stars:** ![Stars](https://img.shields.io/badge/Stars-4-38bdf8?style=flat-square)
-- **My Connections:** ![Followers](https://img.shields.io/badge/Followers-2-6366f1?style=flat-square)
-- **Commit Activity:** **389+ Contributions** in the last year
-- **Vibe:** Coding & Growing every single day
-
-<br/>
-
 <div align="center">
-  <!-- Fully Theme-Adaptive Streak Stats Card using Picture tags -->
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Full-Stack-boi/Full-Stack-boi/output/github-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Full-Stack-boi/Full-Stack-boi/output/github-stats.svg" />
+    <img src="https://raw.githubusercontent.com/Full-Stack-boi/Full-Stack-boi/output/github-stats.svg" width="100%" alt="GitHub Stats" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Full-Stack-boi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=999999&currStreakNum=38bdf8&sideNums=6366f1" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1" />
