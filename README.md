@@ -58,6 +58,7 @@ I'm a passionate **Junior Full-Stack Developer** based in Thailand. I love learn
 ### Frameworks & Tools I use
 
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) &nbsp;
+<a href="https://pub.dev/packages/get"><img src="./getx.svg" width="48" height="48" alt="GetX" /></a> &nbsp;
 [![Xamarin](https://img.icons8.com/color/48/xamarin.png)](https://dotnet.microsoft.com/en-us/apps/xamarin) &nbsp;
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) &nbsp;
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) &nbsp;
@@ -97,7 +98,8 @@ A beautiful and modern cross-platform mobile application with responsive UIs, cr
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) &nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) &nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) &nbsp;
+![GetX](https://img.shields.io/badge/GetX-8F2BD5?style=flat-square&logo=getx&logoColor=white)
 
 <br/>
 
