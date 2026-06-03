@@ -142,9 +142,9 @@ Helped contribute to a high-quality, modern E-Commerce website project built wit
 
   <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Full-Stack-boi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=999999&currStreakNum=38bdf8&sideNums=6366f1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1" />
-    <img src="https://streak-stats.demolab.com?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1" width="100%" alt="GitHub Streak Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Full-Stack-boi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=999999&currStreakNum=38bdf8&sideNums=6366f1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1" />
+    <img src="https://streak-stats.demolab.com/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1" width="100%" alt="GitHub Streak Stats" />
   </picture>
 </div>
 
