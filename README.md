@@ -133,18 +133,18 @@ Helped contribute to a high-quality, modern E-Commerce website project built wit
 <div align="center">
   <!-- GitHub Stats Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-19.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=6366f1&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-19.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=default&hide_border=true&bg_color=fafafa&title_color=38bdf8&text_color=2d3748&icon_color=6366f1&include_all_commits=true" />
-    <img src="https://github-readme-stats-xi-six-19.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=default&hide_border=true&bg_color=fafafa&title_color=38bdf8&text_color=2d3748&icon_color=6366f1&include_all_commits=true" width="100%" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-19.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=6366f1&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-19.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=default&hide_border=true&bg_color=fafafa&title_color=38bdf8&text_color=2d3748&icon_color=6366f1&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-xi-six-19.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=default&hide_border=true&bg_color=fafafa&title_color=38bdf8&text_color=2d3748&icon_color=6366f1&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
   </picture>
 
   <br/><br/>
 
   <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=999999&currStreakNum=38bdf8&sideNums=6366f1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1" />
-    <img src="https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1" width="100%" alt="GitHub Streak Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=999999&currStreakNum=38bdf8&sideNums=6366f1&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1&count_private=true" />
+    <img src="https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1&count_private=true" width="100%" alt="GitHub Streak Stats" />
   </picture>
 </div>
 
