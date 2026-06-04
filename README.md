@@ -1,21 +1,19 @@
-<!-- 🌟 THE FRIENDLY CODER'S CANVAS - BOLD & BEAUTIFUL EDITION 🌟 -->
-
 <div align="center">
 
-<!-- Modern Sky Blue & Violet Waving Header (Zero Special Characters to Avoid Crashes) -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38bdf8,100:6366f1&height=180&section=header&text=Hi%20there,%20I'm%20Nattawut!%20👋&fontSize=30&fontColor=ffffff&desc=Junior%20Full-Stack%20Developer%20-%20Learning%20and%20Building%20Every%20Day%20🚀&descSize=14&descAlignY=65&descColor=f1f5f9" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<!-- Friendly & Approachable Flat Badges -->
+<!-- Badges -->
 
 <img src="https://img.shields.io/badge/Role-Junior%20Full--Stack%20Developer-38bdf8?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/Tech-Web%20%26%20Mobile%20Apps-6366f1?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20To%20Learn-10b981?style=flat-square" />
 
-<br/>
+<br/><br/>
 
-<!-- Enthusiastic Typing Animation -->
+<!-- Typing Animation -->
 
 <a href="https://git.io/typing-svg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code" /><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=1E293B&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code" /><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=1E293B&center=true&vCenter=true&width=600&height=50&lines=Creating+collaborative+web+tools;Building+fun+mobile+apps+with+Flutter;Turning+coffee+into+creative+code" alt="Typing SVG" /></picture></a>
 
@@ -60,6 +58,7 @@ I'm a passionate **Junior Full-Stack Developer** based in Thailand. I love learn
 ### Frameworks & Tools I use
 
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) &nbsp;
+<a href="https://pub.dev/packages/get"><img src="./getx.svg" width="48" height="48" alt="GetX" /></a> &nbsp;
 [![Xamarin](https://img.icons8.com/color/48/xamarin.png)](https://dotnet.microsoft.com/en-us/apps/xamarin) &nbsp;
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) &nbsp;
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) &nbsp;
@@ -99,7 +98,8 @@ A beautiful and modern cross-platform mobile application with responsive UIs, cr
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) &nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) &nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) &nbsp;
+![GetX](https://img.shields.io/badge/GetX-8F2BD5?style=flat-square&logo=getx&logoColor=white)
 
 <br/>
 
@@ -130,12 +130,21 @@ Helped contribute to a high-quality, modern E-Commerce website project built wit
 
 ## Activity & Growth
 
+### Coding Stats
+
+- **Total Repository Stars:** ![Stars](https://img.shields.io/badge/Stars-4-38bdf8?style=flat-square)
+- **My Connections:** ![Followers](https://img.shields.io/badge/Followers-2-6366f1?style=flat-square)
+- **Commit Activity:** **389+ Contributions** in the last year
+- **Vibe:** Coding & Growing every single day
+
+<br/>
+
 <div align="center">
   <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Full-Stack-boi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=999999&currStreakNum=38bdf8&sideNums=6366f1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1" />
-    <img src="https://streak-stats.demolab.com/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1" width="100%" alt="GitHub Streak Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=999999&currStreakNum=38bdf8&sideNums=6366f1&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1&count_private=true" />
+    <img src="https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1&count_private=true" width="100%" alt="GitHub Streak Stats" />
   </picture>
 </div>
 
