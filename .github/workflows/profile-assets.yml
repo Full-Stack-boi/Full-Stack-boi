@@ -26,14 +26,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Fetch GitHub Stats Card (Dark Theme)
-        run: |
-          curl --fail --retry 3 --retry-delay 10 -o dist/github-stats-dark.svg "https://github-readme-stats-xi-six-19.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=6366f1&include_all_commits=true&count_private=true"
-
-      - name: Fetch GitHub Stats Card (Light Theme)
-        run: |
-          curl --fail --retry 3 --retry-delay 10 -o dist/github-stats.svg "https://github-readme-stats-xi-six-19.vercel.app/api?username=Full-Stack-boi&show_icons=true&theme=default&hide_border=true&bg_color=fafafa&title_color=38bdf8&text_color=2d3748&icon_color=6366f1&include_all_commits=true&count_private=true"
-
       - name: Fetch GitHub Streak Stats (Dark Theme)
         run: |
           curl --fail --retry 3 --retry-delay 10 -o dist/github-streak-dark.svg "https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=999999&currStreakNum=38bdf8&sideNums=6366f1&count_private=true"
