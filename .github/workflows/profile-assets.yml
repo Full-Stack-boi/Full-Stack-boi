@@ -1,0 +1,43 @@
+name: Generate Profile Assets
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+      - master
+      - test
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Snake Game
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Full-Stack-boi
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Fetch GitHub Streak Stats (Dark Theme)
+        run: |
+          curl --fail --retry 3 --retry-delay 10 -o dist/github-streak-dark.svg "https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=999999&currStreakNum=38bdf8&sideNums=6366f1&count_private=true"
+
+      - name: Fetch GitHub Streak Stats (Light Theme)
+        run: |
+          curl --fail --retry 3 --retry-delay 10 -o dist/github-streak.svg "https://github-readme-streak-stats-eosin-five.vercel.app/?user=Full-Stack-boi&theme=default&hide_border=true&background=fafafa&ring=38bdf8&fire=6366f1&currStreakLabel=2d3748&sideLabels=2d3748&dates=2d3748&currStreakNum=38bdf8&sideNums=6366f1&count_private=true"
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
