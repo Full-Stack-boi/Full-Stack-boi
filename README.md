@@ -58,7 +58,8 @@ I'm a passionate **Junior Full-Stack Developer** based in Thailand. I love learn
 ### Frameworks & Tools I use
 
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) &nbsp;
-<a href="https://pub.dev/packages/get"><img src="./getx.svg" width="48" height="48" alt="GetX" /></a> &nbsp;
+<a href="https://pub.dev/packages/get"><img src="./icons/getx.svg" width="48" height="48" alt="GetX" /></a> &nbsp;
+<a href="https://riverpod.dev/"><img src="./icons/riverpod.svg" width="48" height="48" alt="Riverpod" /></a> &nbsp;
 [![Xamarin](https://img.icons8.com/color/48/xamarin.png)](https://dotnet.microsoft.com/en-us/apps/xamarin) &nbsp;
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) &nbsp;
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) &nbsp;
@@ -70,6 +71,8 @@ I'm a passionate **Junior Full-Stack Developer** based in Thailand. I love learn
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/) &nbsp;
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) &nbsp;
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/) &nbsp;
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/) &nbsp;
+<a href="https://www.openstreetmap.org/"><img src="https://cdn.simpleicons.org/openstreetmap" width="48" height="48" alt="OpenStreetMap" /></a> &nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) &nbsp;
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) &nbsp;
 [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) &nbsp;
@@ -80,6 +83,18 @@ I'm a passionate **Junior Full-Stack Developer** based in Thailand. I love learn
 ---
 
 ## Projects I've Built
+
+### [Bangkok Transit Planner — Navigate the City](https://github.com/Full-Stack-boi/Bangkok-Transit-Planner)
+
+A cross-platform Flutter application for planning routes across Bangkok's entire rail network (BTS, MRT, ARL) with real-time fare calculation, next-train countdowns, and platform crowd estimates.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) &nbsp;
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) &nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) &nbsp;
+![Riverpod](https://img.shields.io/badge/Riverpod-1A1A24?style=flat-square&logo=flutter&logoColor=white) &nbsp;
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7F993A?style=flat-square&logo=openstreetmap&logoColor=white)
+
+<br/>
 
 ### [Huddle — Watch Videos Together](https://github.com/Full-Stack-boi/Huddle)
 
