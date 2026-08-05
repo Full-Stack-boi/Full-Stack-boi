@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:38bdf8,100:6366f1&height=180&section=header&text=Hi%20there,%20I'm%20Nattawut!%20👋&fontSize=30&fontColor=ffffff&desc=Junior%20Full-Stack%20Developer%20-%20Learning%20and%20Building%20Every%20Day%20🚀&descSize=14&descAlignY=65&descColor=f1f5f9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:38bdf8,100:6366f1&height=180&section=header&text=Hi%20there,%20I'm%20Nattawut!%20👋&fontSize=30&fontColor=ffffff&desc=Junior%20Full-Stack%20Developer%20-%20Learning%20and%20Building%20Every%20Day%20&descSize=14&descAlignY=65&descColor=f1f5f9" width="100%"/>
 
 <br/><br/>
 
@@ -26,17 +26,8 @@
 I'm a passionate **Junior Full-Stack Developer** based in Thailand. I love learning new technologies, writing clean code, and building side projects that make daily tasks more fun! My goal is to grow as an engineer every single day and build cool software that connects people.
 
 - **What I do:** Build responsive web applications (React/Next.js), interactive Chrome Extensions, and mobile apps with Flutter.
-- **Currently learning:** Mastering TypeScript, state management, and real-time tech.
-- **My Mindset:** Curious, eager to learn, and always up for a good coding challenge!
-- **Collaboration:** I'd love to help, contribute, or collaborate on open-source quests!
 
 <br/>
-
-<div align="center">
-  <img src="https://img.icons8.com/fluency/144/laptop-coding.png" alt="Coding Laptop" width="100" />
-  <br/>
-  <sub><i>Keep coding, keep growing!</i></sub>
-</div>
 
 ---
 
@@ -145,13 +136,6 @@ Helped contribute to a high-quality, modern E-Commerce website project built wit
 
 ## Activity & Growth
 
-### Coding Stats
-
-- **Total Repository Stars:** ![Stars](https://img.shields.io/badge/Stars-4-38bdf8?style=flat-square)
-- **My Connections:** ![Followers](https://img.shields.io/badge/Followers-2-6366f1?style=flat-square)
-- **Commit Activity:** **389+ Contributions** in the last year
-- **Vibe:** Coding & Growing every single day
-
 <br/>
 
 <div align="center">
@@ -183,7 +167,7 @@ Helped contribute to a high-quality, modern E-Commerce website project built wit
 
 <div align="center">
 
-<p>I'd love to chat! Feel free to reach out if you want to talk about tech, coding, or just say hi!</p>
+<p>Feel free to reach out if you want to talk about tech, coding, or just say hi!</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Full--Stack--boi-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Full-Stack-boi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nattawut_Buphoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nattawut-buphoo-85a36a408/)
